@@ -60,7 +60,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Shadowing*
 
 ## Languages
+
 Romanian - native language
+
 Spanish, French - beginer
 
 
