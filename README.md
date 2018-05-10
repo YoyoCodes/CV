@@ -42,7 +42,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 2017 - Cambridge English: C2 Proficiency Certificate
+
 2015 - Digital Dental Photography 
+
 2014 - Norms of radiological Safety on Diagnostic and Interventional Radiology Practice (level 2)
 
 ## Experience
