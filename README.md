@@ -6,29 +6,37 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
+| Project Name              | Description                                                   | Technologies   | Testing |
+| --------------------- |:------------------------------------------------------------- | :------------- | :-------|
+| Acebook    | description |Java, Spring-boot, Maven, Webpack, React, CSS | Junit         |
+| Notes App     | Single page web app without using any libraries | Vanilla JavaScript | Vanilla JavaScript |
+| The Posh Couch    | group project |Ruby, Sinatra, Postgres, JavaScript, JQuery, HTML, CSS | Rspec         |
+| Thermostat    | description |JavaScript, JQuery, HTML, CSS | Jasmine         |
+| Takeaway Challenge     | description       | Ruby, Sinatra          | RSpec, Capybara |
+
 ## Skills
 
+#### Teamwork
+I’m comfortable working in a cross-functional team and prioritizing workload according to demand.
+
 #### Leadership
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+At Dental View, our team of 5 was overseeing the activity in all of our 4 locations in Bucharest and a total of 60 employees from the Medical Department.<br>
+Some of my administrative responsabilities included:
+    <ul>
+      <li>Having high autonomy, I was expected to handle any unforseen event during my shift</li>
+      <li>Providing technical support to collaborators</li>
+      <li>Providing training and supervising new staff </li>
+      <li>Prioritising and delegating tasks to employees</li>
+      <li>Performing work assessment of employees when asked to</li>
+    </ul>
+    
+#### Initiative    
 
 #### Empathy
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 ### Makers Academy (April 2018 to Augut 2018)
-
 
 - Fast And Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
