@@ -59,7 +59,7 @@ Some of my administrative responsabilities included:
    <li> Java, SpringBoot, Maven, JUnit</li>
   </ul>
 
-**Methodologies:** Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospective)
+**Methodologies:** Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospective)<br>
 
 ### University of Medicine and Pharmacy  "Carol Davila" (October 2006 to October 2012)
 I held the position of graphic designer and editor as part of the student's council. My responsabilities included:
@@ -68,7 +68,7 @@ I held the position of graphic designer and editor as part of the student's coun
   <li> Organising member for various events including National and International student conferences</li>
   <li> Activly engaging with exchange students and student council members from other countries</li>
   <li> Meeting with sponsors</li>
-</ul>
+</ul><br>
   
 
 ### "Ion C. Bratianu" - National College (September 2002 - September 2006)
