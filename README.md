@@ -50,11 +50,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Dentalview** (January 2017 to April 2018)    
-*CBCT Analyst - dentist*  
+*CBCT Analyst - dentist*  <br>
 **Dentalview** (September 2016 to January 2017)    
-*trainee* 
+*trainee* <br>
 **"Petre Laura" - private dental practice** (January 2014 to June 2016)   
-*Manager and dentist*  
+*Manager and dentist*  <br>
 **"Mihai Gaureanu" - private dental practice** (2012 to June 2013)   
 *Shadowing*
 
