@@ -1,6 +1,10 @@
 ## Laura Petre
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) |[Experience](#experience) | | [Languages](#languages)[Interests](#interests)  
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+## Projects
 
 ## Skills
 
@@ -83,7 +87,7 @@ I held the position of graphic designer and editor as part of the student's coun
     <li>Spanish, French - beginer</li>
 </ul>  
 
-## About myself
+## Interests
 <ul>
   <li>Photography enthusiast who enjoys the best of two worlds by mounting vintage manual lenses on DSLRs </li>
   <li>Foodie and avid tomato grower</li>
