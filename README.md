@@ -29,11 +29,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Fast And Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
+**Processes/techniques:**
+  <ul>
+  <li>TDD</li>
+  <li>Pair programming</li>
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Technologie used:**
+  <ul>  
+   <li> Ruby, Sinatra, Rspec, Capybara </li>
+   <li> Javascript, Jasmine, Webpack, Node.js, React </li>
+   <li> Java, SpringBoot, Maven, JUnit</li>
+  </ul>
+
+**Methodologies:** Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospective)
 
 ### University of Medicine and Pharmacy  "Carol Davila" (October 2006 to October 2012)
 I held the position of graphic designer and editor as part of the student's council. My responsabilities included:
@@ -49,7 +57,7 @@ I held the position of graphic designer and editor as part of the student's coun
 **Matematics - Informatics profile** with emphasis on problem solving and imperative and procedural programming. 
 
 ### Other qualifications
-2017 - Cambridge English: C2 Proficiency Certificate<br>
+2017 - Cambridge English: C2 Proficiency Certificate - Ref.number 17BRO0045001<br>
 2015 - Digital Dental Photography Course<br>
 2014 - Norms of Radiological Safety on Diagnostic and Interventional Radiology Practice (level 2)<br>
 
@@ -69,5 +77,12 @@ I held the position of graphic designer and editor as part of the student's coun
 Romanian - native language<br>
 English - proficient<br>
 Spanish, French - beginer<br>
+
+## About myself
+<ul>
+  <li>Photography enthusiast who enjoys the best of two worlds by mounting vintage manual lenses on DSLRs </li>
+  <li>Foodie and avid tomato grower</li>
+  <li>Traveling and experiencing new cultures</li>
+</ul>  
 
 
