@@ -29,12 +29,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Fast And Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
+
+
 **Processes/techniques:**
   <ul>
     <li>TDD</li>
     <li>Pair programming</li>
     <li>Problem solving</li>
-  <ul>
+  </ul>
 
 **Technologie used:**
   <ul>  
@@ -79,7 +81,7 @@ I held the position of graphic designer and editor as part of the student's coun
     <li>Romanian - native language</li>
     <li>English - proficient</li>
     <li>Spanish, French - beginer</li>
-<ul>  
+</ul>  
 
 ## About myself
 <ul>
