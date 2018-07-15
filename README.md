@@ -80,7 +80,7 @@ I held the position of graphic designer and editor as part of the student's coun
 ## Experience
 
 **Dentalview** (January 2017 to April 2018)    
-*CBCT Analyst and Surgical Guides Designer/ dentist*  <br><br>
+*CBCT Analyst and [Surgical Guides Designer](https://www.youtube.com/watch?v=ydyDkiQ3Iyo)/ dentist*  <br><br>
 **Dentalview** (September 2016 to January 2017)    
 *trainee* <br><br>
 **"Petre Laura" - private dental practice** (January 2014 to June 2016)   
