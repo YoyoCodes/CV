@@ -45,9 +45,11 @@ Some of my administrative responsabilities included:
 
 **Processes/techniques:**
   <ul>
+    <li>OO Design</li>
     <li>TDD</li>
     <li>Pair programming</li>
     <li>Problem solving</li>
+    <li> Using GitHub</li>
   </ul>
 
 **Technologie used:**
