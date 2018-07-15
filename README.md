@@ -25,6 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (April 2018 to Augut 2018)
 
+
 - Fast And Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
@@ -34,27 +35,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Univerity of Medicine and Pharmacy  "Carol Davila" (October 2006 to October 2012)
+#### University of Medicine and Pharmacy  "Carol Davila" (October 2006 to October 2012)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+#### "Ion C. Bratianu" - National College (September 2002 - September 2006)
+**Matematics - Informatics profile** with emphasis on problem solving and imperative and procedural programming. 
+
+#### Other qualifications
 2017 - Cambridge English: C2 Proficiency Certificate
-
 2015 - Digital Dental Photography 
-
-2014 - Norms of radiological Safety on Diagnostic and Interventional Radiology Practice (level 2)
+2014 - Norms of Radiological Safety on Diagnostic and Interventional Radiology Practice (level 2)
 
 ## Experience
 
 **Dentalview** (January 2017 to April 2018)    
-*CBCT Analyst - dentist*  <br>
+*CBCT Analyst - dentist*  <br><br>
 **Dentalview** (September 2016 to January 2017)    
-*trainee* <br>
+*trainee* <br><br>
 **"Petre Laura" - private dental practice** (January 2014 to June 2016)   
-*Manager and dentist*  <br>
+*Manager and dentist*  <br><br>
 **"Mihai Gaureanu" - private dental practice** (2012 to June 2013)   
 *Shadowing*
 
