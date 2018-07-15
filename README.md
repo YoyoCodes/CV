@@ -4,7 +4,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+#### Leadership
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Empathy
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -31,8 +31,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Great collaborator [PROVIDE EVIDENCE]
 **Processes/techniques:**
   <ul>
-  <li>TDD</li>
-  <li>Pair programming</li>
+    <li>TDD</li>
+    <li>Pair programming</li>
+    <li>Problem solving</li>
+  <ul>
 
 **Technologie used:**
   <ul>  
@@ -73,10 +75,11 @@ I held the position of graphic designer and editor as part of the student's coun
 *Shadowing*
 
 ## Languages
-
-Romanian - native language<br>
-English - proficient<br>
-Spanish, French - beginer<br>
+<ul>
+    <li>Romanian - native language</li>
+    <li>English - proficient</li>
+    <li>Spanish, French - beginer</li>
+<ul>  
 
 ## About myself
 <ul>
