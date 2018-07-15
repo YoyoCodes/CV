@@ -53,7 +53,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *CBCT Analyst - dentist*  
 **Dentalview** (September 2016 to January 2017)    
 *trainee* 
-
 **"Petre Laura" - private dental practice** (January 2014 to June 2016)   
 *Manager and dentist*  
 **"Mihai Gaureanu" - private dental practice** (2012 to June 2013)   
@@ -61,8 +60,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Languages
 
-Romanian - native language
-
-Spanish, French - beginer
+Romanian - native language<br>
+English - proficient<br>
+Spanish, French - beginer<br>
 
 
