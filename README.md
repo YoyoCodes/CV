@@ -21,12 +21,12 @@ I’m comfortable working in a cross-functional team and prioritizing workload a
 
 #### Leadership
 At Dental View, our team of 5 was overseeing the activity in all of our 4 locations in Bucharest and a total of 60 employees from the Medical Department.<br>
-Some of my administrative responsabilities included:
+Some of my administrative responsibilities included:
     <ul>
-      <li>Having high autonomy, I was expected to handle any unforseen event during my shift</li>
+      <li>Having high autonomy, I was expected to handle any unforeseen event during my shift</li>
       <li>Providing technical support to collaborators</li>
       <li>Providing training and supervising new staff </li>
-      <li>Prioritising and delegating tasks to employees</li>
+      <li>Prioritizing and delegating tasks to employees</li>
       <li>Performing work assessment of employees when asked to</li>
     </ul>
     
@@ -36,7 +36,7 @@ Some of my administrative responsabilities included:
 
 ## Education
 
-### Makers Academy (April 2018 to Augut 2018)
+### Makers Academy (April 2018 to August 2018)
 
 - Fast And Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -52,7 +52,7 @@ Some of my administrative responsabilities included:
     <li> Using GitHub</li>
   </ul>
 
-**Technologie used:**
+**Technologies used:**
   <ul>  
    <li> Ruby, Sinatra, Rspec, Capybara </li>
    <li> Javascript, Jasmine, Webpack, Node.js, React </li>
@@ -62,17 +62,17 @@ Some of my administrative responsabilities included:
 **Methodologies:** Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospective)<br>
 
 ### University of Medicine and Pharmacy  "Carol Davila" (October 2006 to October 2012)
-I held the position of graphic designer and editor as part of the student's council. My responsabilities included:
+I held the position of graphic designer and editor as part of the student's council. My responsibilities included:
 <ul>
   <li> Designing and printing brochures and posters for upcoming events </li>
-  <li> Organising member for various events including National and International student conferences</li>
-  <li> Activly engaging with exchange students and student council members from other countries</li>
+  <li> Organizing member for various events including National and International student conferences</li>
+  <li> Actively engaging with exchange students and student council members from other countries</li>
   <li> Meeting with sponsors</li>
 </ul><br>
   
 
 ### "Ion C. Bratianu" - National College (September 2002 - September 2006)
-**Matematics - Informatics profile** with emphasis on problem solving and imperative and procedural programming. 
+**Mathematics - Informatics profile** with emphasis on problem solving and imperative and procedural programming. 
 
 ### Other qualifications
 2017 - Cambridge English: C2 Proficiency Certificate - Ref.number 17BRO0045001<br>
@@ -94,7 +94,7 @@ I held the position of graphic designer and editor as part of the student's coun
 <ul>
     <li>Romanian - native language</li>
     <li>English - proficient</li>
-    <li>Spanish, French - beginer</li>
+    <li>Spanish, French - beginner</li>
 </ul>  
 
 ## Interests
