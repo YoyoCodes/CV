@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Languages](#languages) |  [Interests](#interests)  
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Enthusiastic and determined Junior Fullstack Developer with a management and medical background. I have a fondness for logic, tinkering and visual design, and my new-found affinity for web development has allowed me to reconnect with these passions. I wish to continue learning and to grow in a creative and collaborative environment. 
 
 ## Projects
 
