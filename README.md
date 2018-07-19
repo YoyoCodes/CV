@@ -8,11 +8,11 @@ Enthusiastic and determined Junior Fullstack Developer with a management and med
 
 | Project Name        | Timeframe      | Summary                                                   | Technologies   | Testing |
 | --------------------- |:--------- |:----------------------------------------------------------- | :------------- | :-------|
-| Acebook    | 2 weeks | description |Java, Spring-boot, Maven, Webpack, React, CSS | Junit         |
-| Notes App     | 1 week| Single page web app without using any libraries | Vanilla JavaScript | Vanilla JavaScript |
-| The Posh Couch    | 1 week | group project |Ruby, Sinatra, Postgres, JavaScript, JQuery, HTML, CSS | Rspec         |
-| Thermostat    | 1 week | description |JavaScript, JQuery, HTML, CSS | Jasmine         |
-| Takeaway Challenge     | 2 days | description       | Ruby, Sinatra          | RSpec, Capybara |
+| [Acebook](https://github.com/YoyoCodes/acebook-java-template)    | 2 weeks | description |Java, Spring-boot, Maven, Webpack, React, CSS | Junit         |
+| [Notes App](https://github.com/YoyoCodes/Notes-app)     | 1 week| Single page web app without using any libraries | Vanilla JavaScript | Vanilla JavaScript |
+| [The Posh Couch](https://github.com/YoyoCodes/makersbnb)    | 1 week | group project |Ruby, Sinatra, Postgres, JavaScript, JQuery, HTML, CSS | Rspec         |
+| [Thermostat](https://github.com/YoyoCodes/Thermostat)    | 1 week | description |JavaScript, JQuery, HTML, CSS | Jasmine         |
+| [Takeaway Challenge](https://github.com/YoyoCodes/takeaway-challenge)     | 2 days | description       | Ruby, Sinatra          | RSpec, Capybara |
 
 ## Skills
 
