@@ -11,7 +11,7 @@ Enthusiastic and determined Junior Fullstack Developer with a management and med
 | [Acebook](https://github.com/YoyoCodes/acebook-java-template)    | 2 weeks | Weeks 8-9 group project - Working with legacy code and learning an entirely new language and framework |Java, Spring-boot, Maven, Webpack, React, CSS | Junit         |
 | [Notes App](https://github.com/YoyoCodes/Notes-app)     | 1 week| Week 7 - Single page web app without using any libraries | Vanilla JavaScript | Vanilla JavaScript |
 | [The Posh Couch](https://github.com/YoyoCodes/makersbnb)    | 1 week | Week 6 group project - Fullstack AirBNB clone using JavaScript on the frontend and the Sinatra API |Ruby, Sinatra, Postgres, JavaScript, JQuery, HTML, CSS | Rspec         |
-| [Thermostat](https://github.com/YoyoCodes/Thermostat)    | 1 week | Week 5 - A simple business logic hooked up to a dynamic visual interface using JQuery |JavaScript, JQuery, HTML, CSS | Jasmine         |
+| [Thermostat](https://github.com/YoyoCodes/Thermostat)    | 1 week | Week 5 - A simple business logic for a thermostat hooked up to a dynamic visual interface using JQuery an an external API for weather predictions|JavaScript, JQuery, HTML, CSS | Jasmine         |
 | [Takeaway Challenge](https://github.com/YoyoCodes/takeaway-challenge)     | 2 days | Week 2 - One of my first apps in Ruby where customers can order takeaway and receive an SMS via Twillio API      | Ruby, Sinatra          | RSpec |
 
 ## Skills
