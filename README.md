@@ -62,15 +62,6 @@ Some of my administrative responsibilities included:
 **Methodologies:** Agile (Daily Stand-ups, Sprint Planning, Refinement, Retrospective)<br>
 
 ### University of Medicine and Pharmacy  "Carol Davila" (October 2006 to October 2012)
-I held the position of graphic designer and editor as part of the student's council. My responsibilities included:
-<ul>
-  <li> Designing and printing brochures and posters for upcoming events </li>
-  <li> Organizing member for various events including National and International student conferences</li>
-  <li> Actively engaging with exchange students and student council members from other countries</li>
-  <li> Meeting with sponsors</li>
-</ul><br>
-  
-
 ### "Ion C. Bratianu" - National College (September 2002 - September 2006)
 **Mathematics - Informatics profile** with emphasis on problem solving and imperative and procedural programming. 
 
