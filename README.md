@@ -8,7 +8,7 @@ Enthusiastic and determined Junior Fullstack Developer with an interest in Javas
 
 | Project Name        | Timeframe      | Summary                                                   | Technologies   | Testing |
 | --------------------- |:--------- |:----------------------------------------------------------- | :------------- | :-------|
-| [Lendit](https://github.com/YoyoCodes/acebook-java-template)    | 2 weeks | Weeks 11-12 final group project - A social platform for lending/borrowing items |MERN stack (MongoDB, Express, React Node) | Jest, Enzyme, Mocha, Chai         |
+| [Lendit](https://github.com/YoyoCodes/Lendit)    | 2 weeks | Weeks 11-12 final group project - A social platform for lending/borrowing items |MERN stack (MongoDB, Express, React Node) | Jest, Enzyme, Mocha, Chai         |
 | [Acebook](https://github.com/YoyoCodes/acebook-java-template)    | 2 weeks | Weeks 8-9 group project - Working with legacy code and learning an entirely new language and framework |Java, Spring-boot, Maven, Webpack, React, CSS | Junit         |
 | [Notes App](https://github.com/YoyoCodes/Notes-app)     | 1 week| Week 7 - Single page web app without using any libraries | Vanilla JavaScript | Vanilla JavaScript |
 | [The Posh Couch](https://github.com/YoyoCodes/makersbnb)    | 1 week | Week 6 group project - Fullstack AirBNB clone using JavaScript on the frontend and the Sinatra API |Ruby, Sinatra, Postgres, JavaScript, JQuery, HTML, CSS | Rspec         |
