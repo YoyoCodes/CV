@@ -25,7 +25,7 @@ I'm a 'deep diver' who, when confronted with a new problem, pauses to carefully 
 <ul>
     <li>Starting Makers Academy, I had minimal experience of object orientated programming and had never coded in Ruby or JavaScript. After an intense 16 weeks I found I was comfortable in both languages and had developed the skills and frameworks to pick up new technologies/languages quickly.</li>
     <li>At Dental View, after 6 months of studying the business, software and the clients, I was already running my own shift and had autonomy in making decisions</li>
-<ul>    
+</ul>    
 
 #### Communication and Teamwork
 <ul>
