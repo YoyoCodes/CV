@@ -15,6 +15,8 @@ Enthusiastic and determined Junior Fullstack Developer with an interest in Javas
 | [Thermostat](https://github.com/YoyoCodes/Thermostat)    | 1 week | Week 5 - A simple business logic for a thermostat hooked up to a dynamic visual interface using JQuery an an external API for weather predictions|JavaScript, JQuery, HTML, CSS | Jasmine         |
 | [Takeaway Challenge](https://github.com/YoyoCodes/takeaway-challenge)     | 2 days | Week 2 - One of my first apps in Ruby where customers can order takeaway and receive an SMS via Twillio API      | Ruby, Sinatra          | RSpec |
 
+#### Other personal projects/experiments: [Weather NOW](https://github.com/YoyoCodes/Weather-App), [JS Roulette](https://github.com/YoyoCodes/Javascript-Roulette)
+
 ## Skills
 #### Problem solving
 I'm a 'deep diver' who, when confronted with a new problem, pauses to carefully think things through before acting. I aim initially to figure out whether I already know enough to resolve an issue, and, if not, to identify which gaps in my understanding need to be filled, how to fill them, and in what order.
